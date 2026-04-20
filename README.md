@@ -1,2 +1,7 @@
-# demo-odontologia-a-domicilio-caba-gba
-Demo web para 🧑‍⚕️Odontología a Domicilio 🦷CaBa Gba — diseñada por eterlab.
+# 🧑‍⚕️Odontología a Domicilio 🦷CaBa Gba
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
